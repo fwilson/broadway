@@ -24,7 +24,7 @@ h4 {
   font-weight: bold;
   color: white;
   opacity: 0.8;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-image: url(../images/the-flatiron-building.png);
 }
 
 p {
@@ -43,7 +43,7 @@ span {
 .header {
   color: white;
   opacity: .8;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-image: url(../images/the-flatiron-building.png);
 }
 
 .footer p {
